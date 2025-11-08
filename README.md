@@ -10,10 +10,10 @@
 
 ****
 
-[![Paper](https://img.shields.io/badge/Paper-DOI-red?style=for-the-badge)](https://doi.org/10.9728/dcs.2025.26.1.175)
-[![Journal](https://img.shields.io/badge/Journal-JDCS-blue?style=for-the-badge)](http://journal.dcs.or.kr/)
-[![Publisher](https://img.shields.io/badge/Publisher-Digital_Contents_Society-black?style=for-the-badge)](http://www.dcs.or.kr/)
-[![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-green?style=for-the-badge)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Paper](https://img.shields.io/badge/PAPER-JDCS_Open_Access-E84C3D?style=for-the-badge)](https://doi.org/10.9728/dcs.2025.26.1.175)
+[![Journal](https://img.shields.io/badge/JOURNAL-JDCS-blue?style=for-the-badge)](http://journal.dcs.or.kr/)
+[![Publisher](https://img.shields.io/badge/PUBLISHER-Digital_Contents_Society-black?style=for-the-badge)](http://www.dcs.or.kr/)
+
 
 <img width="1200" alt="Architecture" src="https://github.com/user-attachments/assets/23ff1d2f-a0e4-470a-9ca7-690522e14c09" />
 <p align="center"><em>Figure 1. Overall architecture of the proposed YouTube view prediction framework using tree-based machine learning and SHAP analysis.</em></p>
